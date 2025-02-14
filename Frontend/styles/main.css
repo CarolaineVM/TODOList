@@ -1,0 +1,40 @@
+body {
+}
+
+.container-main{
+    padding-top: 20px;
+}
+
+.container-navigation{
+
+}
+
+.cuadro{
+    background-color: #388ff5;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 15px;
+}
+
+.button-navigateActive{
+    background: #e1f0ff;
+    width: 100%;
+    border-radius: 15px;
+    color: black;
+}
+
+.cuadro-espacio{
+    background: #f3f3f3;
+    height: 420px;
+    border-radius: 20px;
+}
+
+.linea-gris{
+    background: #f3f3f3;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}

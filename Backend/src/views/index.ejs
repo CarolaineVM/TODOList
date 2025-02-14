@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NodeJs - Express <%= title %></title>
+    <%- include('partials/head') %> 
+</head>
+<body>
+
+    <div class="container container-main">
+        <div class="row">
+            <div class="col-sm-12 col-md-3">
+                <%- include('partials/navigation') %>
+            </div>
+            <div class="col-sm-12 col-md-9">
+                <div class="row justify-content-end pb-3 pt-3">
+                    <div class="col-sm-4 col-md-3">
+                        <button type="button" class="btn btn-primary w-100">Agregar</button>
+                    </div>
+                </div>
+                <div class="row p-2">
+                    <%- include('partials/tabla') %>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

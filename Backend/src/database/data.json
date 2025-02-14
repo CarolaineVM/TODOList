@@ -1,0 +1,16 @@
+{
+  "tareas": [
+    {
+      "id": 85,
+      "titulo": "Crear proyecto",
+      "descripcion": "Crear el index para el proyecto",
+      "estado": "En curso"
+    },
+    {
+      "id": 764,
+      "titulo": "Crear componente",
+      "descripcion": "Componente vistas",
+      "estado": "Pendiente"
+    }
+  ]
+}
