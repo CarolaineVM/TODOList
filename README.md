@@ -13,14 +13,14 @@ Desarrollar una aplicación web básica de TODO List que permita a los usuarios 
       En la terminal dirigirse a la carpeta Backend para inicializar el proyecto NodeJs - Express, con los siguiente comando:
 
           cd Backend.
-      Ya dentro de la carpeta Backend, instalar el node_modules
+      Ya dentro de la carpeta Backend, instalar las dependencias node_modules
     
           npm install.
       Ya una vez instalado el node_modules, iniciar el proyecto:
     
           npm run dev.
 
-      La carpeta Backend tiene que estar inicializado para que en el lado del Frontend pueda funcionar adecuadamente.
+      La carpeta Backend tiene que estar corriendo para que en el lado del Frontend pueda funcionar adecuadamente.
 
   3.  **FronEnd**
 
